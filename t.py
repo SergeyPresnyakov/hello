@@ -1,2 +1,3 @@
 print("Мама")
+print("Ok")
 
